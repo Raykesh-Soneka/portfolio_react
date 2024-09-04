@@ -15,7 +15,7 @@ Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 ### Instalation du projet
 $\color{rgba(255,0,0, 0.8)}{\textsf{Clonner}}$ le GitHub
 
-```bash
+```shell
 npm install
 npm start
 `(en cas de Bug : npm audit fix --force)`
@@ -43,3 +43,35 @@ npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
 
 
 
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
