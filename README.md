@@ -4,6 +4,8 @@ Code React du portfolio
 
 Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 
+<img src="https://github.com/tandpfun/skill-icons/icons/React-Dark.svg" width="48">
+
 ## Installer npm
 
 > [!IMPORTANT]
