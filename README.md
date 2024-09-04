@@ -10,7 +10,7 @@ Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 ------------------------
 ### Instalation du projet
 Clonner le GitHub
-<code style="color : aqua">install</code>
+
 ```bash
 npm install
 npm start
@@ -20,6 +20,7 @@ npm run build  `(obsolète/En cas de Déploiment sur la Branche main)`
 npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
 ```
 ###Explication des lignes de commande
+
 `npm install` : installe les module (dossier node_module)
 `npm start` : lancer React en local ([http://localhost:3000/](http://localhost:3000/))
 (déjà effectuer )`npm install -D gh-pages` : installe GitHub pages.
