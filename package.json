@@ -1,7 +1,7 @@
 {
-  "name": "react-pokemons-app",
+  "name": "portfolio_react",
   "version": "1.0.0",
-  "description": "An awesome application to handle some pokemons.",
+  "description": "Code React du portfolio de Raykesh.",
   "dependencies": {
     "@types/node": "12.11.1",
     "@types/react": "16.9.9",
