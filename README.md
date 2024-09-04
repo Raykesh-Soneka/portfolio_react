@@ -5,6 +5,7 @@ Code React du portfolio
 Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48">
 
 ## Installer npm
 
