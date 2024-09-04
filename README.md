@@ -30,7 +30,7 @@ npm run build  #`(obsolète/En cas de Déploiment sur la Branche main)`
 npm run deploy #`(En cas de Déploiment sur la Branche gh-pages)`
 ```
 
-###Explication des lignes de commande
+### Explication des lignes de commande
 
 `npm install` : installe les module (dossier node_module, peut prendre un certain moment)
 
@@ -46,8 +46,8 @@ npm run deploy #`(En cas de Déploiment sur la Branche gh-pages)`
 
 
 
-
-
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 > [!CAUTION]
 > Si vous ne voyer qu'un quadrillage ci-dessous aller sur le README.md directement !!!
