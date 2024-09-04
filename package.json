@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Raykesh-Soneka.github.io/portfolio_react",
   "name": "portfolio_react",
   "version": "1.0.0",
   "description": "Code React du portfolio de Raykesh.",
@@ -16,7 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "start:api": "json-server --watch src/models/db.json --port=3001 --delay=500",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -32,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }

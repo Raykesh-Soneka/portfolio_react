@@ -14,6 +14,7 @@ Clonner le GitHub
 npm install
 npm start
 
+(déjà effectuer )npm install -D gh-pages
 npm run build
 npm run deploy
 ```
