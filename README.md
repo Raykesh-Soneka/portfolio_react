@@ -13,10 +13,10 @@ Clonner le GitHub
 ```bash
 npm install
 npm start
-(en cas de Bug : npm audit fix --force)
-(déjà effectuer )npm install -D gh-pages
-npm run build `(obsolète)`
-npm run deploy
+`(en cas de Bug : npm audit fix --force)`
+`(déjà effectuer )`npm install -D gh-pages
+npm run build  `(obsolète/En cas de Déploiment sur la Branche main)`
+npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
 ```
 ###Explication des lignes de commande
 `npm install` : installe les module (dossier node_module)
