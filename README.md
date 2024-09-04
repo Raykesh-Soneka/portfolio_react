@@ -4,9 +4,13 @@ Code React du portfolio
 
 Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 
-## Installer npm, npx
+## Installer npm
 
+> [!IMPORTANT]
+> Pour vériver `Node -v` et `npm -v`.
 
+> [!TIP]
+> [ Lien de téléchargement ](https://nodejs.org/fr).
 ------------------------
 ### Instalation du projet
 $\color{rgba(255,0,0, 0.8)}{\textsf{Clonner}}$ le GitHub
@@ -30,3 +34,12 @@ npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
 `npm run build` : lance le dossier Build (obsolète)
 
 `npm run deploy` : Deploie sur la branch (dans la bonne homepage)
+
+
+
+
+
+
+
+
+
