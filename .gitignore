@@ -1,4 +1,4 @@
 # This .gitignore is appropriate for repositories deployed to GitHub (React)
 
 node_modules
-build
+
