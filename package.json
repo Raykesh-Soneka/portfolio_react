@@ -1,5 +1,5 @@
 {
-  "name": "portfolio_react",
+  "name": "react-pokemons-app",
   "version": "1.0.0",
   "description": "An awesome application to handle some pokemons.",
   "dependencies": {
@@ -32,17 +32,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Raykesh-Soneka/portfolio_react.git"
-  },
-  "keywords": [],
-  "author": "Raykesh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Raykesh-Soneka/portfolio_react/issues"
-  },
-  "homepage": "https://github.com/Raykesh-Soneka/portfolio_react#readme"
+  }
 }
