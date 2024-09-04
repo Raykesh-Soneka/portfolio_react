@@ -29,12 +29,7 @@ npm start
 npm run build  #`(obsolète/En cas de Déploiment sur la Branche main)`
 npm run deploy #`(En cas de Déploiment sur la Branche gh-pages)`
 ```
-test
-``` 
-test
-test ``` test ```
-test
-``` test
+
 ###Explication des lignes de commande
 
 `npm install` : installe les module (dossier node_module, peut prendre un certain moment)
