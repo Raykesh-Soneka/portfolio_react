@@ -11,7 +11,7 @@ Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 Instalation du projet
 Clonner le GitHub
 ```bash
-
+npm install
 
 npm run build
 npm run deploy
