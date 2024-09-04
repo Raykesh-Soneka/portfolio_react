@@ -11,7 +11,7 @@ Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 ### Instalation du projet
 Clonner le GitHub
 ```bash
-npm install
+npm <code style="color : aqua">install</code>
 npm start
 `(en cas de Bug : npm audit fix --force)`
 `(déjà effectuer )`npm install -D gh-pages
