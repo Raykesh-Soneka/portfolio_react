@@ -22,7 +22,11 @@ npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
 ###Explication des lignes de commande
 
 `npm install` : installe les module (dossier node_module)
+
 `npm start` : lancer React en local ([http://localhost:3000/](http://localhost:3000/))
+
 (déjà effectuer )`npm install -D gh-pages` : installe GitHub pages.
+
 `npm run build` : lance le dossier Build (obsolète)
+
 `npm run deploy` : Deploie sur la branch (dans la bonne homepage)
