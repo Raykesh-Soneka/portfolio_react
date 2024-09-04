@@ -13,7 +13,7 @@ Clonner le GitHub
 ```bash
 npm install
 npm start
-
+(en cas de Bug : npm audit fix --force)
 npm run build
 npm run deploy
 ```
