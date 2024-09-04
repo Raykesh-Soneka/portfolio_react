@@ -9,7 +9,7 @@ Le [Lien](https://Raykesh-Soneka.github.io/portfolio_react) du site
 
 ------------------------
 ### Instalation du projet
-Clonner le GitHub
+$\color{rgba(255,0,0, 0.4)}{\textsf{Clonner}}$ le GitHub
 
 ```bash
 npm install
