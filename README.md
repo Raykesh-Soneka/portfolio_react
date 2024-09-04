@@ -44,7 +44,9 @@ npm run deploy #`(En cas de Déploiment sur la Branche gh-pages)`
 
 
 
+<span style="border: 1px solid black;">This text has a border</span>
 
+<span style="border: 2px dashed red;">This text has a dashed red border</span>
 
 --------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------
