@@ -48,7 +48,7 @@ npm run deploy #`(En cas de Déploiment sur la Branche gh-pages)`
 --------------------------------------------------------------------------------------
 
 > [!CAUTION]
-> Si vous ne voyer qu'un quadrillage ci-dessous aller sur le README.md directement !!!
+> Si vous ne voyer qu'un quadrillage ci-dessous aller sur le README.md $\color{rgba(255,20,20)}{\textsf{directement}}$ !!!
 
 > [!TIP]
 > [Ici](https://github.com/Raykesh-Soneka/portfolio_react/blob/main/README.md#representation)
