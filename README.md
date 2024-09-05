@@ -24,14 +24,15 @@ $\color{rgba(255,0,0, 0.8)}{\textsf{Clonner}}$ le GitHub
 ```shell
 npm install
 npm start
-`(en cas de Bug : npm audit fix --force)`
-`(déjà effectuer )`npm install -D gh-pages
-npm run build  `(obsolète/En cas de Déploiment sur la Branche main)`
-npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
+#`(en cas de Bug : npm audit fix --force)`
+#`(déjà effectuer )`npm install -D gh-pages
+npm run build  #`(obsolète/En cas de Déploiment sur la Branche main)`
+npm run deploy #`(En cas de Déploiment sur la Branche gh-pages)`
 ```
-###Explication des lignes de commande
 
-`npm install` : installe les module (dossier node_module)
+### Explication des lignes de commande
+
+`npm install` : installe les module (dossier node_module, peut prendre un certain moment)
 
 `npm start` : lancer React en local ([http://localhost:3000/](http://localhost:3000/))
 
@@ -43,10 +44,8 @@ npm run deploy `(En cas de Déploiment sur la Branche gh-pages)`
 
 
 
-
-
-
-
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 > [!CAUTION]
 > Si vous ne voyer qu'un quadrillage ci-dessous aller sur le README.md directement !!!
